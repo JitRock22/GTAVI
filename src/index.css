@@ -10,3 +10,14 @@ html,body{
   height: 100%;
   font-family: "pricedown";
 }
+.scroll-btn{
+  padding: 5px;
+  border-radius: 100%;
+}
+.scroll-btn:hover {
+  background-color: #c0b8b870;
+  color: #ffffff;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  border:none;
+}
